@@ -1,2 +1,3 @@
 # react-parcel
-good starting point for react parcel application
+
+Sane, opinionated starting point for React application using Parcel for bundling. Theme-ui config is largely based on tailwindcss.
